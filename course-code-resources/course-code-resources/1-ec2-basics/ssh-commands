@@ -19,6 +19,7 @@ ls  #shows a list of directories or files
 mkdir mydir # make a directory called mydir
 cd .. #change directory
 lsblk  #view your available disk devices and their mount points
+lsblk -f
 sudo file -s #get info about a specific device
 
 ```
