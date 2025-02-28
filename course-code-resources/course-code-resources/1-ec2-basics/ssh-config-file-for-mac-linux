@@ -1,3 +1,5 @@
+## Chapter 5
+## Section Connecting to EC2 Instance - SSH via Command Line or Terminal
 # only for Mac or Linux
 # place the file at ~/.ssh/config
 
