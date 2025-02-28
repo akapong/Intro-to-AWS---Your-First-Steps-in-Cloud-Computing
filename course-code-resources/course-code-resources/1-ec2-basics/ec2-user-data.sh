@@ -1,6 +1,6 @@
 #!/bin/bash
 ## Chapter5 
-## Section [Hands-on] Launching an EC2 Instance with UserData
+## Section: [Hands-on] Launching an EC2 Instance with UserData
 # Use this for your user data (script from top to bottom)
 # install httpd (Linux 2 version)
 yum update -y
