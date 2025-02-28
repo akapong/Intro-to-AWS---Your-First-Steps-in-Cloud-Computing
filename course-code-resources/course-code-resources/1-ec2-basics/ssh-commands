@@ -1,3 +1,5 @@
+## Chapter 5
+## Section Connecting to EC2 Instance - SSH via Command Line or Terminal
 ```
 ssh ec2-user@ec2-13-52-102-83.us-west-1.compute.amazonaws.com #gives error
 
