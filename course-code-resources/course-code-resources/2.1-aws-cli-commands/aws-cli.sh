@@ -29,6 +29,8 @@ aws s3 rb --force s3://mywebsite-45h4
 # Describe instances
 aws ec2 describe-instances
 
+## Chapter 5
+## Section: AWS CLI Basic Commands
 # Describe instance with a specific ID
 aws ec2 describe-instances --instance-id i-091506deca22c701d
 
