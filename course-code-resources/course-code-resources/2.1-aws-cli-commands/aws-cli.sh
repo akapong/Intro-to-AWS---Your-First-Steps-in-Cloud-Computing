@@ -24,10 +24,8 @@ aws s3 rb --force s3://mywebsite-45h4
 
 
 
-
-
-
-
+## Chapter 5
+## Section: Configuring AWS CLI Locally
 # Describe instances
 aws ec2 describe-instances
 
