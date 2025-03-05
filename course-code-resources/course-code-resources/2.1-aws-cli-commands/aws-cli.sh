@@ -1,3 +1,5 @@
+## Chapter 6
+## Section: Create, Upload, Delete Buckets Using AWS CLI
 #aws cli commands
 # make a bucket
 aws s3 mb s3://mybucket
