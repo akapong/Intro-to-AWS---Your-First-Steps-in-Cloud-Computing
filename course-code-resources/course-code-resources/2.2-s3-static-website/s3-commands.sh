@@ -1,3 +1,5 @@
+## Chapter 5
+## Section: S3 Static website
 # make a bucket
 aws s3 mb s3://mybucket
 
